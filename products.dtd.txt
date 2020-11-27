@@ -1,0 +1,140 @@
+  
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT products (mac,lakme,bobbibrown,loreal,chanel,maybelline,
+                    revlon,dior,olay,avon,mecca)>
+<!ATTLIST products
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT mac (eyeliner,lipstick,kajal,eyeshadow,foundation,primer,
+               concealer,bronzer,blush,mascara,lipbalm,cleanser,
+               bodylotion,facialmask)>
+<!ATTLIST mac
+  xmlns CDATA #FIXED ''
+  bno NMTOKEN #REQUIRED>
+
+<!ELEMENT lakme (eyeliner,lipstick,kajal,eyeshadow,foundation,primer,
+                 concealer,bronzer,blush,mascara,lipbalm,cleanser,
+                 bodylotion,facialmask)>
+<!ATTLIST lakme
+  xmlns CDATA #FIXED ''
+  bno NMTOKEN #REQUIRED>
+
+<!ELEMENT bobbibrown (eyeliner,lipstick,kajal,eyeshadow,foundation,
+                      primer,concealer,bronzer,blush,mascara,lipbalm,
+                      cleanser,bodylotion,facialmask)>
+<!ATTLIST bobbibrown
+  xmlns CDATA #FIXED ''
+  bno NMTOKEN #REQUIRED>
+
+<!ELEMENT loreal (eyeliner,lipstick,kajal,eyeshadow,foundation,primer,
+                  concealer,bronzer,blush,mascara,lipbalm,cleanser,
+                  bodylotion,facialmask)>
+<!ATTLIST loreal
+  xmlns CDATA #FIXED ''
+  bno NMTOKEN #REQUIRED>
+
+<!ELEMENT chanel (eyeliner,lipstick,kajal,eyeshadow,foundation,primer,
+                  concealer,bronzer,blush,mascara,lipbalm,cleanser,
+                  bodylotion,facialmask)>
+<!ATTLIST chanel
+  xmlns CDATA #FIXED ''
+  bno NMTOKEN #REQUIRED>
+
+<!ELEMENT maybelline (eyeliner,lipstick,kajal,eyeshadow,foundation,
+                      primer,concealer,bronzer,blush,mascara,lipbalm,
+                      cleanser,bodylotion,facialmask)>
+<!ATTLIST maybelline
+  xmlns CDATA #FIXED ''
+  bno NMTOKEN #REQUIRED>
+
+<!ELEMENT revlon (eyeliner,lipstick,kajal,eyeshadow,foundation,primer,
+                  concealer,bronzer,blush,mascara,lipbalm,cleanser,
+                  bodylotion,facialmask)>
+<!ATTLIST revlon
+  xmlns CDATA #FIXED ''
+  bno NMTOKEN #REQUIRED>
+
+<!ELEMENT dior (eyeliner,lipstick,kajal,eyeshadow,foundation,primer,
+                concealer,bronzer,blush,mascara,lipbalm,cleanser,
+                bodylotion,facialmask)>
+<!ATTLIST dior
+  xmlns CDATA #FIXED ''
+  bno NMTOKEN #REQUIRED>
+
+<!ELEMENT olay (eyeliner,lipstick,kajal,eyeshadow,foundation,primer,
+                concealer,bronzer,blush,mascara,lipbalm,cleanser,
+                bodylotion,facialmask)>
+<!ATTLIST olay
+  xmlns CDATA #FIXED ''
+  bno NMTOKEN #REQUIRED>
+
+<!ELEMENT avon (eyeliner,lipstick,kajal,eyeshadow,foundation,primer,
+                concealer,bronzer,blush,mascara,lipbalm,cleanser,
+                bodylotion,facialmask)>
+<!ATTLIST avon
+  xmlns CDATA #FIXED ''
+  bno NMTOKEN #REQUIRED>
+
+<!ELEMENT mecca (eyeliner,lipstick,kajal,eyeshadow,foundation,primer,
+                 concealer,bronzer,blush,mascara,cleanser,bodylotion,
+                 facialmask)>
+<!ATTLIST mecca
+  xmlns CDATA #FIXED ''
+  bno NMTOKEN #REQUIRED>
+
+<!ELEMENT eyeliner (#PCDATA)>
+<!ATTLIST eyeliner
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT lipstick (#PCDATA)>
+<!ATTLIST lipstick
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT kajal (#PCDATA)>
+<!ATTLIST kajal
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT eyeshadow (#PCDATA)>
+<!ATTLIST eyeshadow
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT foundation (#PCDATA)>
+<!ATTLIST foundation
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT primer (#PCDATA)>
+<!ATTLIST primer
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT concealer (#PCDATA)>
+<!ATTLIST concealer
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT bronzer (#PCDATA)>
+<!ATTLIST bronzer
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT blush (#PCDATA)>
+<!ATTLIST blush
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT mascara (#PCDATA)>
+<!ATTLIST mascara
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT lipbalm (#PCDATA)>
+<!ATTLIST lipbalm
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT cleanser (#PCDATA)>
+<!ATTLIST cleanser
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT bodylotion (#PCDATA)>
+<!ATTLIST bodylotion
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT facialmask (#PCDATA)>
+<!ATTLIST facialmask
+  xmlns CDATA #FIXED ''>

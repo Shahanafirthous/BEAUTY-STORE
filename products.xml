@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE products SYSTEM "products.dtd">
+<products>
+<mac bno="m1">
+  <eyeliner>Eyeliner - 600 </eyeliner>
+  <lipstick>Lipstick - 500</lipstick>
+  <kajal>Kajal - 320</kajal>
+  <eyeshadow>Eyeshadow - 470 </eyeshadow>
+  <foundation>foundation - 320</foundation>
+  <primer>primer - 856</primer>
+  <concealer>concealer - 345</concealer>
+  <bronzer>bronzer - 980</bronzer>
+  <blush>blush - 1230</blush>
+  <mascara>mascara - 245</mascara>
+  <lipbalm>lipbalm - 155</lipbalm>
+  <cleanser>cleanser - 675</cleanser>
+  <bodylotion>bodylotion - 873</bodylotion>
+  <facialmask>facialmask - 100</facialmask>
+</mac>
+<lakme bno="m2">
+  <eyeliner>Eyeliner - 800 </eyeliner>
+  <lipstick>Lipstick - 0933</lipstick>
+  <kajal>Kajal - 780</kajal>
+  <eyeshadow>Eyeshadow - 580 </eyeshadow>
+  <foundation>foundation - 789</foundation>
+  <primer>primer - 634</primer>
+  <concealer>concealer - 780</concealer>
+  <bronzer>bronzer - 734</bronzer>
+  <blush>blush - 278</blush>
+  <mascara>mascara - 856</mascara>
+  <lipbalm>lipbalm - 155</lipbalm>
+  <cleanser>cleanser - 675</cleanser>
+  <bodylotion>bodylotion - 230</bodylotion>
+  <facialmask>facialmask - 100</facialmask>
+</lakme>
+<bobbibrown bno="m3">
+  <eyeliner>Eyeliner - 098 </eyeliner>
+  <lipstick>Lipstick - 780</lipstick>
+  <kajal>Kajal - 320</kajal>
+  <eyeshadow>Eyeshadow - 470 </eyeshadow>
+  <foundation>foundation - 320</foundation>
+  <primer>primer - 890</primer>
+  <concealer>concealer - 345</concealer>
+  <bronzer>bronzer - 980</bronzer>
+  <blush>blush - 670</blush>
+  <mascara>mascara - 245</mascara>
+  <lipbalm>lipbalm - 129</lipbalm>
+  <cleanser>cleanser - 675</cleanser>
+  <bodylotion>bodylotion - 873</bodylotion>
+  <facialmask>facialmask - 160</facialmask>
+</bobbibrown>
+<loreal bno="m4">
+  <eyeliner>Eyeliner - 780 </eyeliner>
+  <lipstick>Lipstick - 120</lipstick>
+  <kajal>Kajal - 854</kajal>
+  <eyeshadow>Eyeshadow - 890 </eyeshadow>
+  <foundation>foundation - 450</foundation>
+  <primer>primer - 670</primer>
+  <concealer>concealer - 897</concealer>
+  <bronzer>bronzer - 450</bronzer>
+  <blush>blush - 2340</blush>
+  <mascara>mascara - 567</mascara>
+  <lipbalm>lipbalm - 780</lipbalm>
+  <cleanser>cleanser - 890</cleanser>
+  <bodylotion>bodylotion - 125</bodylotion>
+  <facialmask>facialmask - 100</facialmask>
+</loreal>
+<chanel bno="m5">
+  <eyeliner>Eyeliner - 890 </eyeliner>
+  <lipstick>Lipstick - 500</lipstick>
+  <kajal>Kajal - 567</kajal>
+  <eyeshadow>Eyeshadow - 0964 </eyeshadow>
+  <foundation>foundation - 234</foundation>
+  <primer>primer - 860</primer>
+  <concealer>concealer - 260</concealer>
+  <bronzer>bronzer - 960</bronzer>
+  <blush>blush - 156</blush>
+  <mascara>mascara - 906</mascara>
+  <lipbalm>lipbalm - 560</lipbalm>
+  <cleanser>cleanser - 890</cleanser>
+  <bodylotion>bodylotion - 670</bodylotion>
+  <facialmask>facialmask - 1200</facialmask>
+</chanel>
+<maybelline bno="m6">
+  <eyeliner>Eyeliner - 600 </eyeliner>
+  <lipstick>Lipstick - 500</lipstick>
+  <kajal>Kajal - 890</kajal>
+  <eyeshadow>Eyeshadow - 787 </eyeshadow>
+  <foundation>foundation - 676</foundation>
+  <primer>primer - 898</primer>
+  <concealer>concealer - 450</concealer>
+  <bronzer>bronzer - 780</bronzer>
+  <blush>blush - 1230</blush>
+  <mascara>mascara - 123</mascara>
+  <lipbalm>lipbalm - 456</lipbalm>
+  <cleanser>cleanser - 789</cleanser>
+  <bodylotion>bodylotion - 908</bodylotion>
+  <facialmask>facialmask - 130</facialmask>
+</maybelline>
+<revlon bno="m7">
+  <eyeliner>Eyeliner - 780 </eyeliner>
+  <lipstick>Lipstick - 230</lipstick>
+  <kajal>Kajal - 564</kajal>
+  <eyeshadow>Eyeshadow - 904 </eyeshadow>
+  <foundation>foundation - 721</foundation>
+  <primer>primer - 710</primer>
+  <concealer>concealer - 647</concealer>
+  <bronzer>bronzer - 670</bronzer>
+  <blush>blush - 430</blush>
+  <mascara>mascara - 668</mascara>
+  <lipbalm>lipbalm - 342</lipbalm>
+  <cleanser>cleanser - 234</cleanser>
+  <bodylotion>bodylotion - 890</bodylotion>
+  <facialmask>facialmask - 120</facialmask>
+</revlon>
+<dior bno="m8">
+  <eyeliner>Eyeliner - 670 </eyeliner>
+  <lipstick>Lipstick - 456</lipstick>
+  <kajal>Kajal - 903</kajal>
+  <eyeshadow>Eyeshadow - 340 </eyeshadow>
+  <foundation>foundation - 534</foundation>
+  <primer>primer - 676</primer>
+  <concealer>concealer - 1110</concealer>
+  <bronzer>bronzer - 6747</bronzer>
+  <blush>blush - 1230</blush>
+  <mascara>mascara - 245</mascara>
+  <lipbalm>lipbalm - 155</lipbalm>
+  <cleanser>cleanser - 786</cleanser>
+  <bodylotion>bodylotion - 452</bodylotion>
+  <facialmask>facialmask - 60</facialmask>
+</dior>
+<olay bno="m9">
+  <eyeliner>Eyeliner - 900 </eyeliner>
+  <lipstick>Lipstick - 450</lipstick>
+  <kajal>Kajal - 670</kajal>
+  <eyeshadow>Eyeshadow - 110 </eyeshadow>
+  <foundation>foundation - 453</foundation>
+  <primer>primer - 250</primer>
+  <concealer>concealer - 620</concealer>
+  <bronzer>bronzer - 630</bronzer>
+  <blush>blush - 640</blush>
+  <mascara>mascara - 760</mascara>
+  <lipbalm>lipbalm - 890</lipbalm>
+  <cleanser>cleanser - 980</cleanser>
+  <bodylotion>bodylotion - 340</bodylotion>
+  <facialmask>facialmask - 1120</facialmask>
+</olay>
+<avon bno="m10">
+  <eyeliner>Eyeliner - 800 </eyeliner>
+  <lipstick>Lipstick - 100</lipstick>
+  <kajal>Kajal - 675</kajal>
+  <eyeshadow>Eyeshadow - 0456 </eyeshadow>
+  <foundation>foundation - 890</foundation>
+  <primer>primer - 560</primer>
+  <concealer>concealer - 110</concealer>
+  <bronzer>bronzer - 230</bronzer>
+  <blush>blush - 670</blush>
+  <mascara>mascara - 540</mascara>
+  <lipbalm>lipbalm - 2075</lipbalm>
+  <cleanser>cleanser - 345</cleanser>
+  <bodylotion>bodylotion - 450</bodylotion>
+  <facialmask>facialmask - 098</facialmask>
+</avon>
+<mecca bno="m11">
+  <eyeliner>Eyeliner - 676 </eyeliner>
+  <lipstick>Lipstick - 452</lipstick>
+  <kajal>Kajal - 787</kajal>
+  <eyeshadow>Eyeshadow - 4568 </eyeshadow>
+  <foundation>foundation - 098</foundation>
+  <primer>primer - 234</primer>
+  <concealer>concealer - 345</concealer>
+  <bronzer>bronzer - 450</bronzer>
+  <blush>blush - 1278</blush>
+  <mascara>mascara - 874</mascara>
+  <cleanser>cleanser - 5678</cleanser>
+  <bodylotion>bodylotion - 093</bodylotion>
+  <facialmask>facialmask - 50</facialmask>
+</mecca>
+</products>

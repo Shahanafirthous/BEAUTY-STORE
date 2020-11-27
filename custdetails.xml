@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<details>
+<customer cid="01">
+  <name>Akhila</name>
+  <phone> 9845612475 </phone>
+  <location> Chennai </location>
+  <email> akhilavelu2000@gmail.com </email>
+  <favproduct> Maybelline </favproduct>
+</customer>
+<customer cid="02">
+  <name>Velu</name>
+  <phone> 93443114816 </phone>
+  <location> Chennai </location>
+  <email> velu2000@gmail.com </email>
+  <favproduct> Mecca </favproduct>
+</customer>
+<customer cid="03">
+  <name>Vasughi</name>
+  <phone> 967543823 </phone>
+  <location> Tuticorin </location>
+  <email> vasughivelu2000@gmail.com </email>
+  <favproduct> Dior </favproduct>
+</customer>
+<customer cid="04">
+  <name>Nive</name>
+  <phone> 9845690075 </phone>
+  <location> Tuticorin </location>
+  <email> nivevelu2000@gmail.com </email>
+  <favproduct> Revlon, Chanel </favproduct>
+</customer>
+<customer cid="05">
+  <name>Akil</name>
+  <phone> 9435612475 </phone>
+  <location> Chennai </location>
+  <email> akilvelu2000@gmail.com </email>
+  <favproduct> Lakme, Loreal </favproduct>
+</customer>
+<customer cid="06">
+  <name>Agi</name>
+  <phone> 9846782475 </phone>
+  <location> Chennai </location>
+  <email> agi108@gmail.com </email>
+  <favproduct> Lakme </favproduct>
+</customer>
+<customer cid="07">
+  <name>Jimin</name>
+  <phone> 98467612475 </phone>
+  <location> Chennai </location>
+  <email> jimin678@gmail.com </email>
+  <favproduct> Revlon </favproduct>
+</customer>
+</details>

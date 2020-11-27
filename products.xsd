@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="products">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="mac"/>
+        <xs:element ref="lakme"/>
+        <xs:element ref="bobbibrown"/>
+        <xs:element ref="loreal"/>
+        <xs:element ref="chanel"/>
+        <xs:element ref="maybelline"/>
+        <xs:element ref="revlon"/>
+        <xs:element ref="dior"/>
+        <xs:element ref="olay"/>
+        <xs:element ref="avon"/>
+        <xs:element ref="mecca"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="mac">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="eyeliner"/>
+        <xs:element ref="lipstick"/>
+        <xs:element ref="kajal"/>
+        <xs:element ref="eyeshadow"/>
+        <xs:element ref="foundation"/>
+        <xs:element ref="primer"/>
+        <xs:element ref="concealer"/>
+        <xs:element ref="bronzer"/>
+        <xs:element ref="blush"/>
+        <xs:element ref="mascara"/>
+        <xs:element ref="lipbalm"/>
+        <xs:element ref="cleanser"/>
+        <xs:element ref="bodylotion"/>
+        <xs:element ref="facialmask"/>
+      </xs:sequence>
+      <xs:attribute name="bno" use="required" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="lakme">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="eyeliner"/>
+        <xs:element ref="lipstick"/>
+        <xs:element ref="kajal"/>
+        <xs:element ref="eyeshadow"/>
+        <xs:element ref="foundation"/>
+        <xs:element ref="primer"/>
+        <xs:element ref="concealer"/>
+        <xs:element ref="bronzer"/>
+        <xs:element ref="blush"/>
+        <xs:element ref="mascara"/>
+        <xs:element ref="lipbalm"/>
+        <xs:element ref="cleanser"/>
+        <xs:element ref="bodylotion"/>
+        <xs:element ref="facialmask"/>
+      </xs:sequence>
+      <xs:attribute name="bno" use="required" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="bobbibrown">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="eyeliner"/>
+        <xs:element ref="lipstick"/>
+        <xs:element ref="kajal"/>
+        <xs:element ref="eyeshadow"/>
+        <xs:element ref="foundation"/>
+        <xs:element ref="primer"/>
+        <xs:element ref="concealer"/>
+        <xs:element ref="bronzer"/>
+        <xs:element ref="blush"/>
+        <xs:element ref="mascara"/>
+        <xs:element ref="lipbalm"/>
+        <xs:element ref="cleanser"/>
+        <xs:element ref="bodylotion"/>
+        <xs:element ref="facialmask"/>
+      </xs:sequence>
+      <xs:attribute name="bno" use="required" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="loreal">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="eyeliner"/>
+        <xs:element ref="lipstick"/>
+        <xs:element ref="kajal"/>
+        <xs:element ref="eyeshadow"/>
+        <xs:element ref="foundation"/>
+        <xs:element ref="primer"/>
+        <xs:element ref="concealer"/>
+        <xs:element ref="bronzer"/>
+        <xs:element ref="blush"/>
+        <xs:element ref="mascara"/>
+        <xs:element ref="lipbalm"/>
+        <xs:element ref="cleanser"/>
+        <xs:element ref="bodylotion"/>
+        <xs:element ref="facialmask"/>
+      </xs:sequence>
+      <xs:attribute name="bno" use="required" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="chanel">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="eyeliner"/>
+        <xs:element ref="lipstick"/>
+        <xs:element ref="kajal"/>
+        <xs:element ref="eyeshadow"/>
+        <xs:element ref="foundation"/>
+        <xs:element ref="primer"/>
+        <xs:element ref="concealer"/>
+        <xs:element ref="bronzer"/>
+        <xs:element ref="blush"/>
+        <xs:element ref="mascara"/>
+        <xs:element ref="lipbalm"/>
+        <xs:element ref="cleanser"/>
+        <xs:element ref="bodylotion"/>
+        <xs:element ref="facialmask"/>
+      </xs:sequence>
+      <xs:attribute name="bno" use="required" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="maybelline">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="eyeliner"/>
+        <xs:element ref="lipstick"/>
+        <xs:element ref="kajal"/>
+        <xs:element ref="eyeshadow"/>
+        <xs:element ref="foundation"/>
+        <xs:element ref="primer"/>
+        <xs:element ref="concealer"/>
+        <xs:element ref="bronzer"/>
+        <xs:element ref="blush"/>
+        <xs:element ref="mascara"/>
+        <xs:element ref="lipbalm"/>
+        <xs:element ref="cleanser"/>
+        <xs:element ref="bodylotion"/>
+        <xs:element ref="facialmask"/>
+      </xs:sequence>
+      <xs:attribute name="bno" use="required" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="revlon">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="eyeliner"/>
+        <xs:element ref="lipstick"/>
+        <xs:element ref="kajal"/>
+        <xs:element ref="eyeshadow"/>
+        <xs:element ref="foundation"/>
+        <xs:element ref="primer"/>
+        <xs:element ref="concealer"/>
+        <xs:element ref="bronzer"/>
+        <xs:element ref="blush"/>
+        <xs:element ref="mascara"/>
+        <xs:element ref="lipbalm"/>
+        <xs:element ref="cleanser"/>
+        <xs:element ref="bodylotion"/>
+        <xs:element ref="facialmask"/>
+      </xs:sequence>
+      <xs:attribute name="bno" use="required" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="dior">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="eyeliner"/>
+        <xs:element ref="lipstick"/>
+        <xs:element ref="kajal"/>
+        <xs:element ref="eyeshadow"/>
+        <xs:element ref="foundation"/>
+        <xs:element ref="primer"/>
+        <xs:element ref="concealer"/>
+        <xs:element ref="bronzer"/>
+        <xs:element ref="blush"/>
+        <xs:element ref="mascara"/>
+        <xs:element ref="lipbalm"/>
+        <xs:element ref="cleanser"/>
+        <xs:element ref="bodylotion"/>
+        <xs:element ref="facialmask"/>
+      </xs:sequence>
+      <xs:attribute name="bno" use="required" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="olay">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="eyeliner"/>
+        <xs:element ref="lipstick"/>
+        <xs:element ref="kajal"/>
+        <xs:element ref="eyeshadow"/>
+        <xs:element ref="foundation"/>
+        <xs:element ref="primer"/>
+        <xs:element ref="concealer"/>
+        <xs:element ref="bronzer"/>
+        <xs:element ref="blush"/>
+        <xs:element ref="mascara"/>
+        <xs:element ref="lipbalm"/>
+        <xs:element ref="cleanser"/>
+        <xs:element ref="bodylotion"/>
+        <xs:element ref="facialmask"/>
+      </xs:sequence>
+      <xs:attribute name="bno" use="required" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="avon">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="eyeliner"/>
+        <xs:element ref="lipstick"/>
+        <xs:element ref="kajal"/>
+        <xs:element ref="eyeshadow"/>
+        <xs:element ref="foundation"/>
+        <xs:element ref="primer"/>
+        <xs:element ref="concealer"/>
+        <xs:element ref="bronzer"/>
+        <xs:element ref="blush"/>
+        <xs:element ref="mascara"/>
+        <xs:element ref="lipbalm"/>
+        <xs:element ref="cleanser"/>
+        <xs:element ref="bodylotion"/>
+        <xs:element ref="facialmask"/>
+      </xs:sequence>
+      <xs:attribute name="bno" use="required" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="mecca">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="eyeliner"/>
+        <xs:element ref="lipstick"/>
+        <xs:element ref="kajal"/>
+        <xs:element ref="eyeshadow"/>
+        <xs:element ref="foundation"/>
+        <xs:element ref="primer"/>
+        <xs:element ref="concealer"/>
+        <xs:element ref="bronzer"/>
+        <xs:element ref="blush"/>
+        <xs:element ref="mascara"/>
+        <xs:element ref="cleanser"/>
+        <xs:element ref="bodylotion"/>
+        <xs:element ref="facialmask"/>
+      </xs:sequence>
+      <xs:attribute name="bno" use="required" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="eyeliner" type="xs:string"/>
+  <xs:element name="lipstick" type="xs:string"/>
+  <xs:element name="kajal" type="xs:string"/>
+  <xs:element name="eyeshadow" type="xs:string"/>
+  <xs:element name="foundation" type="xs:string"/>
+  <xs:element name="primer" type="xs:string"/>
+  <xs:element name="concealer" type="xs:string"/>
+  <xs:element name="bronzer" type="xs:string"/>
+  <xs:element name="blush" type="xs:string"/>
+  <xs:element name="mascara" type="xs:string"/>
+  <xs:element name="lipbalm" type="xs:string"/>
+  <xs:element name="cleanser" type="xs:string"/>
+  <xs:element name="bodylotion" type="xs:string"/>
+  <xs:element name="facialmask" type="xs:string"/>
+</xs:schema>
